@@ -1,4 +1,8 @@
 _repo: Ten-Dollars-Enough-Keeping-House-Well-on-Ten-Dollars-a-Week-How-It-Has-Been-Done-How-It-May-B__49521
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49521-h/images/cover.jpg
 creator:
   author:
     agent_name: Owen, Catherine
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '31905'
     url: http://www.gutenberg.org/2009/agents/31905
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49521#Ten-Dollars-Enough-Keeping-House-Well-on-Ten-Dollars-a-Week-How-It-Has-Been-Done-How-It-May-B_
 gutenberg_issued: '2015-07-25'
 gutenberg_type: Text
 identifiers:
